@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ditto Dancing Pokemon
+* source:	https://sketchfab.com/3d-models/ditto-dancing-pokemon-00224d46a9404ad09ccf23102339f1ac
+* author:	Javier Contreras (https://sketchfab.com/Javier.ConRod)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ditto Dancing Pokemon" (https://sketchfab.com/3d-models/ditto-dancing-pokemon-00224d46a9404ad09ccf23102339f1ac) by Javier Contreras (https://sketchfab.com/Javier.ConRod) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

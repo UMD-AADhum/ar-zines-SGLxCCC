@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bmo running
+* source:	https://sketchfab.com/3d-models/bmo-running-83f4e967908544d0bfeec9cf0384faa8
+* author:	TomG00d (https://sketchfab.com/TomG00d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bmo running" (https://sketchfab.com/3d-models/bmo-running-83f4e967908544d0bfeec9cf0384faa8) by TomG00d (https://sketchfab.com/TomG00d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
